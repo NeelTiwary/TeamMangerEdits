@@ -1,0 +1,22 @@
+{
+  "skills": [
+    {
+      "name": "Frontend Middle",
+      "connectedTo": [
+        {
+          "name": "Deep Learning Advance",
+          "developer": "ABC"
+        }
+      ]
+    },
+    {
+      "name": "UI/UX Specialist",
+      "connectedTo": [
+        {
+          "name": "FrontEnd Medocare",
+          "developer": "XYZ"
+        }
+      ]
+    }
+  ]
+}
